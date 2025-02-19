@@ -2,6 +2,9 @@
 
 # Renderer Architecture Documentation  
 
+![Alt text](./architecture.svg)
+<img src="./architecture.svg">
+
 ---
 
 ## **Core Responsibilities**  
